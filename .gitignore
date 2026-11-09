@@ -1,0 +1,47 @@
+# Node & Frontend dependencies
+node_modules/
+dist/
+build/
+coverage/
+
+# Python Virtual Environments
+venv/
+.venv/
+backend/venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+foodsta.db
+test_foodsta.db
+
+# Uploads & Media
+uploads/
+backend/uploads/
+
+# Environment Variables & Credentials
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.aistudio/

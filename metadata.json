@@ -1,0 +1,6 @@
+{
+  "name": "FOODSTA 2.0 - The Global Culinary Social Network",
+  "description": "The global culinary social networking and professional development platform connecting chefs, computational gastronomy (RecipeDB & FlavorDB), chef battles, and career opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
